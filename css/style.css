@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background-color: #FABC3C;
+}
+
+nav {
+    font-family: 'Andika', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.lead {
+    font-family: 'Inconsolata', monospace;
+}
+
+p {
+    font-family: 'Andika', sans-serif;
+}
